@@ -1,0 +1,148 @@
+2017-09-21 17:14:57,554  INFO UserMapperTest:48 ---- Starting UserMapperTest on GDHJBUYH0JWGLNY with PID 11500 (started by Administrator in E:\StudyWorkspace\ideaCode\springboot-study-01)
+2017-09-21 17:14:57,555  INFO UserMapperTest:597 ---- The following profiles are active: prod
+2017-09-21 17:15:03,793  INFO UserMapperTest:57 ---- Started UserMapperTest in 6.913 seconds (JVM running for 7.908)
+2017-09-21 17:17:40,086  INFO UserMapperTest:48 ---- Starting UserMapperTest on GDHJBUYH0JWGLNY with PID 10596 (started by Administrator in E:\StudyWorkspace\ideaCode\springboot-study-01)
+2017-09-21 17:17:40,086  INFO UserMapperTest:597 ---- The following profiles are active: prod
+2017-09-21 17:17:46,448  INFO UserMapperTest:57 ---- Started UserMapperTest in 7.008 seconds (JVM running for 7.973)
+2017-09-21 17:18:26,989  INFO UserMapperTest:48 ---- Starting UserMapperTest on GDHJBUYH0JWGLNY with PID 11692 (started by Administrator in E:\StudyWorkspace\ideaCode\springboot-study-01)
+2017-09-21 17:18:26,990  INFO UserMapperTest:597 ---- The following profiles are active: prod
+2017-09-21 17:18:33,651  INFO UserMapperTest:57 ---- Started UserMapperTest in 7.049 seconds (JVM running for 8.027)
+2017-09-21 17:28:56,380  INFO SpringbootStudy01Application:48 ---- Starting SpringbootStudy01Application on GDHJBUYH0JWGLNY with PID 12080 (E:\StudyWorkspace\ideaCode\springboot-study-01\target\classes started by Administrator in E:\StudyWorkspace\ideaCode\springboot-study-01)
+2017-09-21 17:28:56,382  INFO SpringbootStudy01Application:597 ---- The following profiles are active: prod
+2017-09-21 17:29:01,042  INFO SpringbootStudy01Application:57 ---- Started SpringbootStudy01Application in 5.107 seconds (JVM running for 6.042)
+2017-09-21 17:29:20,468  INFO WebLogAspect:30 ---- URL : http://localhost:8080/hello2
+2017-09-21 17:29:20,469  INFO WebLogAspect:31 ---- HTTP_METHOD : GET
+2017-09-21 17:29:20,469  INFO WebLogAspect:32 ---- IP : 0:0:0:0:0:0:0:1
+2017-09-21 17:29:20,469  INFO WebLogAspect:33 ---- CLASS_METHOD : com.wyj.springbootstudy01.web.HelloController.hello
+2017-09-21 17:29:20,469  INFO WebLogAspect:34 ---- ARGS : [didi]
+2017-09-21 17:29:20,472  INFO WebLogAspect:39 ---- RESPONSE : Hello didi
+2017-09-21 17:44:30,323  INFO SpringbootStudy01Application:48 ---- Starting SpringbootStudy01Application on GDHJBUYH0JWGLNY with PID 12948 (E:\StudyWorkspace\ideaCode\springboot-study-01\target\classes started by Administrator in E:\StudyWorkspace\ideaCode\springboot-study-01)
+2017-09-21 17:44:30,326  INFO SpringbootStudy01Application:597 ---- The following profiles are active: prod
+2017-09-21 17:44:35,669  INFO SpringbootStudy01Application:57 ---- Started SpringbootStudy01Application in 5.566 seconds (JVM running for 6.276)
+2017-09-21 17:44:44,071  INFO WebLogAspect:34 ---- URL : http://localhost:8080/
+2017-09-21 17:44:44,072  INFO WebLogAspect:35 ---- HTTP_METHOD : GET
+2017-09-21 17:44:44,072  INFO WebLogAspect:36 ---- IP : 0:0:0:0:0:0:0:1
+2017-09-21 17:44:44,072  INFO WebLogAspect:37 ---- CLASS_METHOD : com.wyj.springbootstudy01.web.HelloController.index
+2017-09-21 17:44:44,073  INFO WebLogAspect:38 ---- ARGS : [{}]
+2017-09-21 17:44:44,076  INFO WebLogAspect:43 ---- RESPONSE : index
+2017-09-21 17:44:44,077  INFO WebLogAspect:44 ---- SPEND TIME : 6
+2017-09-21 17:45:02,681  INFO WebLogAspect:34 ---- URL : http://localhost:8080/login
+2017-09-21 17:45:02,682  INFO WebLogAspect:35 ---- HTTP_METHOD : GET
+2017-09-21 17:45:02,682  INFO WebLogAspect:36 ---- IP : 0:0:0:0:0:0:0:1
+2017-09-21 17:45:02,682  INFO WebLogAspect:37 ---- CLASS_METHOD : com.wyj.springbootstudy01.web.HelloController.login
+2017-09-21 17:45:02,682  INFO WebLogAspect:38 ---- ARGS : []
+2017-09-21 17:45:02,682  INFO WebLogAspect:43 ---- RESPONSE : login
+2017-09-21 17:45:02,683  INFO WebLogAspect:44 ---- SPEND TIME : 2
+2017-09-21 17:45:35,278  INFO WebLogAspect:34 ---- URL : http://localhost:8080/login
+2017-09-21 17:45:35,278  INFO WebLogAspect:35 ---- HTTP_METHOD : GET
+2017-09-21 17:45:35,278  INFO WebLogAspect:36 ---- IP : 0:0:0:0:0:0:0:1
+2017-09-21 17:45:35,278  INFO WebLogAspect:37 ---- CLASS_METHOD : com.wyj.springbootstudy01.web.HelloController.login
+2017-09-21 17:45:35,279  INFO WebLogAspect:38 ---- ARGS : []
+2017-09-21 17:45:35,279  INFO WebLogAspect:43 ---- RESPONSE : login
+2017-09-21 17:45:35,279  INFO WebLogAspect:44 ---- SPEND TIME : 1
+2017-09-21 17:45:41,702  INFO WebLogAspect:34 ---- URL : http://localhost:8080/login
+2017-09-21 17:45:41,702  INFO WebLogAspect:35 ---- HTTP_METHOD : GET
+2017-09-21 17:45:41,703  INFO WebLogAspect:36 ---- IP : 0:0:0:0:0:0:0:1
+2017-09-21 17:45:41,703  INFO WebLogAspect:37 ---- CLASS_METHOD : com.wyj.springbootstudy01.web.HelloController.login
+2017-09-21 17:45:41,703  INFO WebLogAspect:38 ---- ARGS : []
+2017-09-21 17:45:41,703  INFO WebLogAspect:43 ---- RESPONSE : login
+2017-09-21 17:45:41,703  INFO WebLogAspect:44 ---- SPEND TIME : 1
+2017-09-21 17:45:55,044  INFO WebLogAspect:34 ---- URL : http://localhost:8080/hello
+2017-09-21 17:45:55,044  INFO WebLogAspect:35 ---- HTTP_METHOD : GET
+2017-09-21 17:45:55,044  INFO WebLogAspect:36 ---- IP : 0:0:0:0:0:0:0:1
+2017-09-21 17:45:55,044  INFO WebLogAspect:37 ---- CLASS_METHOD : com.wyj.springbootstudy01.web.HelloController.hello
+2017-09-21 17:45:55,045  INFO WebLogAspect:38 ---- ARGS : []
+2017-09-21 17:46:05,199  INFO WebLogAspect:34 ---- URL : http://localhost:8080/security
+2017-09-21 17:46:05,200  INFO WebLogAspect:35 ---- HTTP_METHOD : GET
+2017-09-21 17:46:05,200  INFO WebLogAspect:36 ---- IP : 0:0:0:0:0:0:0:1
+2017-09-21 17:46:05,201  INFO WebLogAspect:37 ---- CLASS_METHOD : com.wyj.springbootstudy01.web.HelloController.security
+2017-09-21 17:46:05,201  INFO WebLogAspect:38 ---- ARGS : []
+2017-09-21 17:46:05,201  INFO WebLogAspect:43 ---- RESPONSE : security
+2017-09-21 17:46:05,202  INFO WebLogAspect:44 ---- SPEND TIME : 3
+2017-09-21 17:46:07,403  INFO WebLogAspect:34 ---- URL : http://localhost:8080/hello
+2017-09-21 17:46:07,404  INFO WebLogAspect:35 ---- HTTP_METHOD : GET
+2017-09-21 17:46:07,404  INFO WebLogAspect:36 ---- IP : 0:0:0:0:0:0:0:1
+2017-09-21 17:46:07,405  INFO WebLogAspect:37 ---- CLASS_METHOD : com.wyj.springbootstudy01.web.HelloController.hello
+2017-09-21 17:46:07,405  INFO WebLogAspect:38 ---- ARGS : []
+2017-09-21 17:46:14,573  INFO WebLogAspect:34 ---- URL : http://localhost:8080/security2
+2017-09-21 17:46:14,573  INFO WebLogAspect:35 ---- HTTP_METHOD : GET
+2017-09-21 17:46:14,573  INFO WebLogAspect:36 ---- IP : 0:0:0:0:0:0:0:1
+2017-09-21 17:46:14,573  INFO WebLogAspect:37 ---- CLASS_METHOD : com.wyj.springbootstudy01.web.HelloController.security2
+2017-09-21 17:46:14,574  INFO WebLogAspect:38 ---- ARGS : []
+2017-09-21 17:46:14,574  INFO WebLogAspect:43 ---- RESPONSE : security2
+2017-09-21 17:46:14,574  INFO WebLogAspect:44 ---- SPEND TIME : 1
+2017-09-21 17:46:41,802  INFO WebLogAspect:34 ---- URL : http://localhost:8080/security
+2017-09-21 17:46:41,802  INFO WebLogAspect:35 ---- HTTP_METHOD : GET
+2017-09-21 17:46:41,803  INFO WebLogAspect:36 ---- IP : 0:0:0:0:0:0:0:1
+2017-09-21 17:46:41,803  INFO WebLogAspect:37 ---- CLASS_METHOD : com.wyj.springbootstudy01.web.HelloController.security
+2017-09-21 17:46:41,803  INFO WebLogAspect:38 ---- ARGS : []
+2017-09-21 17:46:41,804  INFO WebLogAspect:43 ---- RESPONSE : security
+2017-09-21 17:46:41,804  INFO WebLogAspect:44 ---- SPEND TIME : 2
+2017-09-21 17:46:43,308  INFO WebLogAspect:34 ---- URL : http://localhost:8080/hello
+2017-09-21 17:46:43,309  INFO WebLogAspect:35 ---- HTTP_METHOD : GET
+2017-09-21 17:46:43,309  INFO WebLogAspect:36 ---- IP : 0:0:0:0:0:0:0:1
+2017-09-21 17:46:43,310  INFO WebLogAspect:37 ---- CLASS_METHOD : com.wyj.springbootstudy01.web.HelloController.hello
+2017-09-21 17:46:43,310  INFO WebLogAspect:38 ---- ARGS : []
+2017-09-21 17:56:05,343  INFO SpringbootStudy01Application:48 ---- Starting SpringbootStudy01Application on GDHJBUYH0JWGLNY with PID 12712 (E:\StudyWorkspace\ideaCode\springboot-study-01\target\classes started by Administrator in E:\StudyWorkspace\ideaCode\springboot-study-01)
+2017-09-21 17:56:05,344  INFO SpringbootStudy01Application:597 ---- The following profiles are active: prod
+2017-09-21 17:56:10,426  INFO SpringbootStudy01Application:57 ---- Started SpringbootStudy01Application in 5.294 seconds (JVM running for 5.956)
+2017-09-21 17:56:17,310  INFO WebLogAspect:34 ---- URL : http://localhost:8080/login
+2017-09-21 17:56:17,311  INFO WebLogAspect:35 ---- HTTP_METHOD : GET
+2017-09-21 17:56:17,311  INFO WebLogAspect:36 ---- IP : 0:0:0:0:0:0:0:1
+2017-09-21 17:56:17,311  INFO WebLogAspect:37 ---- CLASS_METHOD : com.wyj.springbootstudy01.web.HelloController.login
+2017-09-21 17:56:17,311  INFO WebLogAspect:38 ---- ARGS : []
+2017-09-21 17:56:17,314  INFO WebLogAspect:43 ---- RESPONSE : login
+2017-09-21 17:56:17,314  INFO WebLogAspect:44 ---- SPEND TIME : 4
+2017-09-21 17:56:31,797  INFO WebLogAspect:34 ---- URL : http://localhost:8080/hello
+2017-09-21 17:56:31,798  INFO WebLogAspect:35 ---- HTTP_METHOD : GET
+2017-09-21 17:56:31,798  INFO WebLogAspect:36 ---- IP : 0:0:0:0:0:0:0:1
+2017-09-21 17:56:31,798  INFO WebLogAspect:37 ---- CLASS_METHOD : com.wyj.springbootstudy01.web.HelloController.hello
+2017-09-21 17:56:31,799  INFO WebLogAspect:38 ---- ARGS : []
+2017-09-21 17:56:37,273  INFO WebLogAspect:34 ---- URL : http://localhost:8080/security
+2017-09-21 17:56:37,274  INFO WebLogAspect:35 ---- HTTP_METHOD : GET
+2017-09-21 17:56:37,274  INFO WebLogAspect:36 ---- IP : 0:0:0:0:0:0:0:1
+2017-09-21 17:56:37,274  INFO WebLogAspect:37 ---- CLASS_METHOD : com.wyj.springbootstudy01.web.HelloController.security
+2017-09-21 17:56:37,274  INFO WebLogAspect:38 ---- ARGS : []
+2017-09-21 17:56:37,274  INFO WebLogAspect:43 ---- RESPONSE : security
+2017-09-21 17:56:37,275  INFO WebLogAspect:44 ---- SPEND TIME : 2
+2017-09-21 17:56:38,626  INFO WebLogAspect:34 ---- URL : http://localhost:8080/security2
+2017-09-21 17:56:38,627  INFO WebLogAspect:35 ---- HTTP_METHOD : GET
+2017-09-21 17:56:38,627  INFO WebLogAspect:36 ---- IP : 0:0:0:0:0:0:0:1
+2017-09-21 17:56:38,628  INFO WebLogAspect:37 ---- CLASS_METHOD : com.wyj.springbootstudy01.web.HelloController.security2
+2017-09-21 17:56:38,628  INFO WebLogAspect:38 ---- ARGS : []
+2017-09-21 17:56:38,628  INFO WebLogAspect:43 ---- RESPONSE : security2
+2017-09-21 17:56:38,628  INFO WebLogAspect:44 ---- SPEND TIME : 2
+2017-09-21 17:56:40,752  INFO WebLogAspect:34 ---- URL : http://localhost:8080/login
+2017-09-21 17:56:40,752  INFO WebLogAspect:35 ---- HTTP_METHOD : GET
+2017-09-21 17:56:40,752  INFO WebLogAspect:36 ---- IP : 0:0:0:0:0:0:0:1
+2017-09-21 17:56:40,752  INFO WebLogAspect:37 ---- CLASS_METHOD : com.wyj.springbootstudy01.web.HelloController.login
+2017-09-21 17:56:40,752  INFO WebLogAspect:38 ---- ARGS : []
+2017-09-21 17:56:40,753  INFO WebLogAspect:43 ---- RESPONSE : login
+2017-09-21 17:56:40,753  INFO WebLogAspect:44 ---- SPEND TIME : 1
+2017-09-21 18:08:08,084  INFO SpringbootStudy01ApplicationTests:48 ---- Starting SpringbootStudy01ApplicationTests on GDHJBUYH0JWGLNY with PID 12844 (started by Administrator in E:\StudyWorkspace\ideaCode\springboot-study-01)
+2017-09-21 18:08:08,085  INFO SpringbootStudy01ApplicationTests:597 ---- The following profiles are active: prod
+2017-09-21 18:08:16,388  INFO SpringbootStudy01ApplicationTests:57 ---- Started SpringbootStudy01ApplicationTests in 9.006 seconds (JVM running for 10.01)
+2017-09-21 18:12:51,851  INFO SpringbootStudy01ApplicationTests:48 ---- Starting SpringbootStudy01ApplicationTests on GDHJBUYH0JWGLNY with PID 12400 (started by Administrator in E:\StudyWorkspace\ideaCode\springboot-study-01)
+2017-09-21 18:12:51,852  INFO SpringbootStudy01ApplicationTests:597 ---- The following profiles are active: prod
+2017-09-21 18:12:59,900  INFO SpringbootStudy01ApplicationTests:57 ---- Started SpringbootStudy01ApplicationTests in 8.699 seconds (JVM running for 9.705)
+2017-09-21 18:15:48,394  INFO SpringbootStudy01ApplicationTests:48 ---- Starting SpringbootStudy01ApplicationTests on GDHJBUYH0JWGLNY with PID 13004 (started by Administrator in E:\StudyWorkspace\ideaCode\springboot-study-01)
+2017-09-21 18:15:48,394  INFO SpringbootStudy01ApplicationTests:597 ---- The following profiles are active: prod
+2017-09-21 18:15:56,547  INFO SpringbootStudy01ApplicationTests:57 ---- Started SpringbootStudy01ApplicationTests in 8.658 seconds (JVM running for 9.623)
+2017-09-21 18:16:28,039  INFO SpringbootStudy01ApplicationTests:48 ---- Starting SpringbootStudy01ApplicationTests on GDHJBUYH0JWGLNY with PID 11904 (started by Administrator in E:\StudyWorkspace\ideaCode\springboot-study-01)
+2017-09-21 18:16:28,040  INFO SpringbootStudy01ApplicationTests:597 ---- The following profiles are active: prod
+2017-09-21 18:16:36,069  INFO SpringbootStudy01ApplicationTests:57 ---- Started SpringbootStudy01ApplicationTests in 8.608 seconds (JVM running for 9.567)
+2017-09-21 18:17:34,252  INFO SpringbootStudy01ApplicationTests:48 ---- Starting SpringbootStudy01ApplicationTests on GDHJBUYH0JWGLNY with PID 13244 (started by Administrator in E:\StudyWorkspace\ideaCode\springboot-study-01)
+2017-09-21 18:17:34,253  INFO SpringbootStudy01ApplicationTests:597 ---- The following profiles are active: prod
+2017-09-21 18:17:42,052  INFO SpringbootStudy01ApplicationTests:57 ---- Started SpringbootStudy01ApplicationTests in 8.408 seconds (JVM running for 9.42)
+2017-09-21 18:20:16,328  INFO SpringbootStudy01ApplicationTests:48 ---- Starting SpringbootStudy01ApplicationTests on GDHJBUYH0JWGLNY with PID 12444 (started by Administrator in E:\StudyWorkspace\ideaCode\springboot-study-01)
+2017-09-21 18:20:16,329  INFO SpringbootStudy01ApplicationTests:597 ---- The following profiles are active: prod
+2017-09-21 18:20:24,076  INFO SpringbootStudy01ApplicationTests:57 ---- Started SpringbootStudy01ApplicationTests in 8.284 seconds (JVM running for 9.302)
+2017-09-21 18:20:44,762  INFO SpringbootStudy01ApplicationTests:48 ---- Starting SpringbootStudy01ApplicationTests on GDHJBUYH0JWGLNY with PID 13164 (started by Administrator in E:\StudyWorkspace\ideaCode\springboot-study-01)
+2017-09-21 18:20:44,763  INFO SpringbootStudy01ApplicationTests:597 ---- The following profiles are active: prod
+2017-09-21 18:20:52,579  INFO SpringbootStudy01ApplicationTests:57 ---- Started SpringbootStudy01ApplicationTests in 8.296 seconds (JVM running for 9.326)
+2017-09-21 18:23:20,581  INFO SpringbootStudy01ApplicationTests:48 ---- Starting SpringbootStudy01ApplicationTests on GDHJBUYH0JWGLNY with PID 12568 (started by Administrator in E:\StudyWorkspace\ideaCode\springboot-study-01)
+2017-09-21 18:23:20,582  INFO SpringbootStudy01ApplicationTests:597 ---- The following profiles are active: prod
+2017-09-21 18:23:28,516  INFO SpringbootStudy01ApplicationTests:57 ---- Started SpringbootStudy01ApplicationTests in 8.321 seconds (JVM running for 9.292)
+2017-09-21 18:24:57,518  INFO SpringbootStudy01ApplicationTests:48 ---- Starting SpringbootStudy01ApplicationTests on GDHJBUYH0JWGLNY with PID 12296 (started by Administrator in E:\StudyWorkspace\ideaCode\springboot-study-01)
+2017-09-21 18:24:57,518  INFO SpringbootStudy01ApplicationTests:597 ---- The following profiles are active: prod
+2017-09-21 18:25:05,422  INFO SpringbootStudy01ApplicationTests:57 ---- Started SpringbootStudy01ApplicationTests in 8.509 seconds (JVM running for 9.474)
